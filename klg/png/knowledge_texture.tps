@@ -192,6 +192,7 @@
             <filename>exit.png</filename>
             <filename>menu_down.png</filename>
             <filename>menu_right.png</filename>
+            <filename>setting.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
