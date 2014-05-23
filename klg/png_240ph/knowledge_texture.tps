@@ -54,7 +54,7 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>1024</int>
+            <int>512</int>
             <key>height</key>
             <int>512</int>
         </QSize>
@@ -148,49 +148,12 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>armour_gray.png</filename>
-            <filename>armour_highlighted.png</filename>
-            <filename>armour.png</filename>
-            <filename>back.png</filename>
-            <filename>CannonProjectile.png</filename>
-            <filename>CannonTurret.png</filename>
-            <filename>CannonTurretUpgrade.png</filename>
-            <filename>dollar.png</filename>
-            <filename>Enemy1.png</filename>
-            <filename>Enemy2.png</filename>
-            <filename>Enemy3.png</filename>
-            <filename>fan_gray.png</filename>
-            <filename>fan_highlighted.png</filename>
-            <filename>fan.png</filename>
-            <filename>FreezeTurret.png</filename>
-            <filename>FreezeTurretUpgrade.png</filename>
-            <filename>health_bar_blue.png</filename>
-            <filename>health_bar_green.png</filename>
-            <filename>health_bar_red.png</filename>
-            <filename>health_bar_yellow.png</filename>
-            <filename>IceProjectile.png</filename>
-            <filename>MachineGunTurret.png</filename>
-            <filename>magic_mirror_gray.png</filename>
-            <filename>magic_mirror_highlighted.png</filename>
-            <filename>magic_mirror.png</filename>
-            <filename>medal_gray.png</filename>
-            <filename>medal.png</filename>
-            <filename>MGTowerUpgrade.png</filename>
-            <filename>next.png</filename>
-            <filename>Projectile.png</filename>
-            <filename>sound_muted_small.png</filename>
-            <filename>sound_muted.png</filename>
-            <filename>sound_small.png</filename>
-            <filename>sound.png</filename>
-            <filename>SputterRange.png</filename>
-            <filename>stars.png</filename>
-            <filename>start.png</filename>
-            <filename>replay.png</filename>
-            <filename>sceneButtonBg2.png</filename>
-            <filename>exit.png</filename>
-            <filename>menu_down.png</filename>
-            <filename>menu_right.png</filename>
-            <filename>setting.png</filename>
+            <filename>sceneButtonBg1.png</filename>
+            <filename>lock.png</filename>
+            <filename>geography.png</filename>
+            <filename>health.png</filename>
+            <filename>history.png</filename>
+            <filename>literature.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
