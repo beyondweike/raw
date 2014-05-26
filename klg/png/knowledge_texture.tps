@@ -56,7 +56,7 @@
             <key>width</key>
             <int>1024</int>
             <key>height</key>
-            <int>512</int>
+            <int>1024</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -191,6 +191,12 @@
             <filename>menu_down.png</filename>
             <filename>menu_right.png</filename>
             <filename>setting.png</filename>
+            <filename>geography.png</filename>
+            <filename>health.png</filename>
+            <filename>history.png</filename>
+            <filename>literature.png</filename>
+            <filename>lock.png</filename>
+            <filename>sceneButtonBg1.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
