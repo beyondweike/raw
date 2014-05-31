@@ -112,8 +112,6 @@
         </struct>
         <key>dataFileName</key>
         <filename>knowledge_texture.plist</filename>
-        <key>multiPack</key>
-        <false/>
         <key>mainExtension</key>
         <string></string>
         <key>forceIdenticalLayout</key>
@@ -197,6 +195,8 @@
             <filename>literature.png</filename>
             <filename>lock.png</filename>
             <filename>sceneButtonBg1.png</filename>
+            <filename>star_gray.png</filename>
+            <filename>star_yellow.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
