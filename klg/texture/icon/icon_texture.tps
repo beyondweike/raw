@@ -178,9 +178,7 @@
             <filename>MGTowerUpgrade.png</filename>
             <filename>next.png</filename>
             <filename>Projectile.png</filename>
-            <filename>sound_muted_small.png</filename>
             <filename>sound_muted.png</filename>
-            <filename>sound_small.png</filename>
             <filename>sound.png</filename>
             <filename>SputterRange.png</filename>
             <filename>stars.png</filename>
@@ -194,6 +192,9 @@
             <filename>sceneButtonBg1.png</filename>
             <filename>star_gray.png</filename>
             <filename>star_yellow.png</filename>
+            <filename>share.png</filename>
+            <filename>menu_main.png</filename>
+            <filename>about.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
