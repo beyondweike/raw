@@ -946,13 +946,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>hero_8d_walk_texture.pvr.ccz</string>
+            <string>hero0_8d_walk_texture.pvr.ccz</string>
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a5ca1d8e941d4021b160852a6930760d:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:ccc4f6d0a71e1a77ff5c12f875a5afb5:1/1$</string>
             <key>textureFileName</key>
-            <string>hero_8d_walk_texture.pvr.ccz</string>
+            <string>hero0_8d_walk_texture.pvr.ccz</string>
         </dict>
     </dict>
 </plist>
