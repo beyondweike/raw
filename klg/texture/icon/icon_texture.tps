@@ -195,6 +195,8 @@
             <filename>share.png</filename>
             <filename>menu_main.png</filename>
             <filename>about.png</filename>
+            <filename>hero0.png</filename>
+            <filename>hero1.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
