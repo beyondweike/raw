@@ -197,6 +197,9 @@
             <filename>about.png</filename>
             <filename>hero0.png</filename>
             <filename>hero1.png</filename>
+            <filename>music_muted.png</filename>
+            <filename>music.png</filename>
+            <filename>coins.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
