@@ -180,7 +180,6 @@
             <filename>Projectile.png</filename>
             <filename>sound_muted.png</filename>
             <filename>sound.png</filename>
-            <filename>SputterRange.png</filename>
             <filename>stars.png</filename>
             <filename>start.png</filename>
             <filename>replay.png</filename>
@@ -200,6 +199,7 @@
             <filename>music_muted.png</filename>
             <filename>music.png</filename>
             <filename>coins.png</filename>
+            <filename>sputterRange.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

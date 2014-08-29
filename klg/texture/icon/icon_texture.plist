@@ -160,19 +160,6 @@
                 <key>sourceSize</key>
                 <string>{5,5}</string>
             </dict>
-            <key>SputterRange.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{246,2},{100,100}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{100,100}}</string>
-                <key>sourceSize</key>
-                <string>{100,100}</string>
-            </dict>
             <key>about.png</key>
             <dict>
                 <key>frame</key>
@@ -628,6 +615,19 @@
                 <key>sourceSize</key>
                 <string>{64,64}</string>
             </dict>
+            <key>sputterRange.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{246,2},{100,100}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,100}}</string>
+                <key>sourceSize</key>
+                <string>{100,100}</string>
+            </dict>
             <key>star_gray.png</key>
             <dict>
                 <key>frame</key>
@@ -690,7 +690,7 @@
             <key>size</key>
             <string>{1024,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6eb40704911a0d896031a856cd95925f:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:f84fd8a1d71dc0761d3e19dfff339f73:1/1$</string>
             <key>textureFileName</key>
             <string>icon_texture.pvr.ccz</string>
         </dict>
