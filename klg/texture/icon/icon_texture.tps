@@ -181,7 +181,6 @@
             <filename>sound_muted.png</filename>
             <filename>sound.png</filename>
             <filename>stars.png</filename>
-            <filename>start.png</filename>
             <filename>replay.png</filename>
             <filename>exit.png</filename>
             <filename>menu_down.png</filename>
@@ -200,6 +199,7 @@
             <filename>music.png</filename>
             <filename>coins.png</filename>
             <filename>sputterRange.png</filename>
+            <filename>logo.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
