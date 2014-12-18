@@ -690,7 +690,7 @@
             <key>size</key>
             <string>{1024,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5f4ff36f1351d18a5c9ced2eb70ad557:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:b5541b4a7ab8565918f3b43c95c32617:1/1$</string>
             <key>textureFileName</key>
             <string>icon_texture.pvr.ccz</string>
         </dict>
