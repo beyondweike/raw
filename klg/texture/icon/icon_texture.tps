@@ -200,6 +200,7 @@
             <filename>coins.png</filename>
             <filename>sputterRange.png</filename>
             <filename>logo.png</filename>
+            <filename>ask.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
