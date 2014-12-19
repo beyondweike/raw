@@ -112,8 +112,6 @@
         </struct>
         <key>dataFileName</key>
         <filename>icon_texture.plist</filename>
-        <key>multiPack</key>
-        <false/>
         <key>mainExtension</key>
         <string></string>
         <key>forceIdenticalLayout</key>
@@ -201,6 +199,7 @@
             <filename>sputterRange.png</filename>
             <filename>logo.png</filename>
             <filename>ask.png</filename>
+            <filename>grade.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
