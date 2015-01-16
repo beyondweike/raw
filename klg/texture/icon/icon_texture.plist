@@ -72,7 +72,7 @@
             <key>Enemy3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{692,110},{38,38}}</string>
+                <string>{{692,112},{38,38}}</string>
                 <key>offset</key>
                 <string>{-1,1}</string>
                 <key>rotated</key>
@@ -241,15 +241,15 @@
             <key>coins.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{692,66},{50,42}}</string>
+                <string>{{692,66},{60,44}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,6},{50,42}}</string>
+                <string>{{0,5},{60,44}}</string>
                 <key>sourceSize</key>
-                <string>{50,50}</string>
+                <string>{60,50}</string>
             </dict>
             <key>dollar.png</key>
             <dict>
@@ -716,7 +716,7 @@
             <key>size</key>
             <string>{1024,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9bb2415c46cc8663d0ea20cb99826ebc$</string>
+            <string>$TexturePacker:SmartUpdate:2b7c9e65104dcbc630758af32042fc5d:1/1$</string>
             <key>textureFileName</key>
             <string>icon_texture.pvr.ccz</string>
         </dict>
